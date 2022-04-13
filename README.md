@@ -21,8 +21,10 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop
 ![Desktop screenshot](./design/desktop-screenshot.png)
 
+Mobile
 ![Mobile screenshot](./design/mobile-screenshot.png)
 
 ### Links
