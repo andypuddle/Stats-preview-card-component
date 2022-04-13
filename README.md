@@ -19,12 +19,12 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
-Desktop
+### Desktop
 ![Desktop screenshot](./design/desktop-screenshot.png)
 
-Mobile
+### Mobile
 ![Mobile screenshot](./design/mobile-screenshot.png)
 
 ### Links
