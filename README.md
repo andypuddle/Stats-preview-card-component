@@ -29,8 +29,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/stats-preview-card-component-S1J_1VN45](https://your-solution-url.com)
+- Live Site URL: [https://andypuddle.github.io/Stats-preview-card-component/](https://your-live-site-url.com)
 
 ### Built with
 
@@ -42,4 +42,4 @@ Mobile
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [https://www.frontendmentor.io/profile/andypuddle](https://www.frontendmentor.io/profile/yourusername)
