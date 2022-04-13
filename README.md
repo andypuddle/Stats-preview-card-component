@@ -21,11 +21,9 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop
-![main/design/desktop-screenshot.png](./screenshot.png)
+![Desktop screenshot](./design/desktop-screenshot.png)
 
-Mobile
-![design/mobile-screenshot.png](./screenshot.png)
+![Mobile screenshot](./design/mobile-screenshot.png)
 
 ### Links
 
