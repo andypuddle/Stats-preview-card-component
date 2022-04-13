@@ -22,7 +22,7 @@ Users should be able to:
 ### Screenshot
 
 Desktop
-![https://github.com/andypuddle/Stats-preview-card-component/blob/main/design/desktop-screenshot.png](./screenshot.png)
+![main/design/desktop-screenshot.png](./screenshot.png)
 
 Mobile
 ![design/mobile-screenshot.png](./screenshot.png)
